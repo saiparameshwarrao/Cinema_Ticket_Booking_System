@@ -1,6 +1,5 @@
 # Cinema Ticket Booking System
 
-# 🎟️ Cinema Ticket Reservation System  
 
 ## Overview  
 The **Cinema Ticket Reservation System** is a **C-based console application** that simplifies movie ticket booking and management. It provides an easy-to-use interface for users to book, modify, and cancel movie tickets while ensuring real-time seat availability tracking.  
