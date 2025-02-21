@@ -1,2 +1,17 @@
 # Cinema Ticket Booking System
-This Cinema Ticket Reservation System is a C-based console application that simplifies movie ticket booking and management. It features seat availability tracking, user account creation, and flexible booking options with support for popular payment methods like cards and UPI. Users can view, cancel, and modify bookings seamlessly. The system includes data validation for inputs like phone numbers, email, and seat numbers to enhance user experience and prevent errors. Designed with interactive menus and organized functions, it ensures efficient and user-friendly ticketing for cinemas. This project demonstrates practical implementation of file handling, arrays, and basic algorithms in C programming.
+
+📌 Overview
+The Cinema Ticket Reservation System is a C-based console application designed for seamless movie ticket booking and management. It enables users to check seat availability, create accounts, and book tickets with ease. The system also supports popular payment methods such as cards and UPI and allows users to view, cancel, and modify their bookings efficiently.
+
+🚀 Features
+✔️ User Account Creation – Register and manage user profiles.
+✔️ Seat Availability Tracking – View and select available seats.
+✔️ Flexible Booking Options – Book, cancel, and modify tickets easily.
+✔️ Secure Payments – Supports card payments & UPI.
+✔️ Data Validation – Ensures valid phone numbers, emails, and seat numbers.
+✔️ Interactive Menu System – User-friendly navigation for efficient booking.
+✔️ File Handling Implementation – Stores booking records securely.
+
+🛠️ Technologies Used
+Programming Language: C
+Concepts Applied: File Handling, Arrays, Functions, and Basic Algorithms
